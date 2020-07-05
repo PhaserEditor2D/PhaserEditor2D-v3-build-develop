@@ -1,3 +1,5 @@
+# Phaser Editor 2D build scripts for testing
+
 This repository contains the scripts to build the `develop` branch of [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3).
 
 The `develop` branch contains the new features and bug fixes to be included in the next version of the editor.
