@@ -23,5 +23,5 @@ npm run PhaserEditor2D
 
 **WARNING!:** When testing the editor, you should clear the browser cache.
 
-Also, you can build PhaserEditor2D manually, following [this guide](https://github.com/PhaserEditor2D/PhaserEditor2D-v3/blob/develop/BUILD.md).
+This is an alternative to the [build Phaser Editor 2D manually guide](https://github.com/PhaserEditor2D/PhaserEditor2D-v3/blob/develop/BUILD.md).
 
