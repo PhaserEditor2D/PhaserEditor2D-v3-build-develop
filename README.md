@@ -6,15 +6,24 @@ The `develop` branch contains the new features and bug fixes to be included in t
 
 Follow these steps:
 
+Setup (just the first time):
+
 ```bash
 git clone https://github.com/PhaserEditor2D/PhaserEditor2D-v3-build-develop.git
 cd PhaserEditor2D-v3-build-develop
 npm install
+```
+
+Build the latest version (each time you need):
+
+```bash
 npm run build
 npm run PhaserEditor2D
 ```
 
 **WARNING!:** When testing the editor, you should clear the browser cache.
+
+If there is a new `develop`
 
 Also, you can build PhaserEditor2D manually, following [this guide](https://github.com/PhaserEditor2D/PhaserEditor2D-v3/blob/develop/BUILD.md).
 
