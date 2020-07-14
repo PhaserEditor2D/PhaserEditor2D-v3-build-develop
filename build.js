@@ -9,7 +9,7 @@ async function main() {
     rimraf.sync("editor");
     rimraf.sync("develop");
 
-    const ver = "3.3.0";
+    const ver = "3.3.1";
     const platform = { "win32": "windows", "darwin": "macos", "linux": "linux" }[os.platform()];
     const installZipUrl = `https://updates.phasereditor2d.com/v${ver}/PhaserEditor2D-${ver}-${platform}.zip`;
     console.log(`Fetching ${installZipUrl}`);
